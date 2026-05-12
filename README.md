@@ -102,8 +102,19 @@ The application uses Firebase services for:
 
 # 📸 Screenshots
 
-_Add application screenshots here._
+# 📸 Screenshots
 
+## 🔐 Login Screen
+![Login Screen](screenshots/login.png)
+
+## 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+
+## 🔍 Search Screen
+![Search Screen](screenshots/search.png)
+
+## 🎓 Class Screen
+![Class Screen](screenshots/class.png)
 ---
 
 # ⚙️ Installation
