@@ -102,8 +102,6 @@ The application uses Firebase services for:
 
 # 📸 Screenshots
 
-# 📸 Screenshots
-
 ## 🔐 Login Screen
 ![Login Screen](screenshots/login.png)
 
