@@ -48,7 +48,7 @@ Built using modern Android development practices, NimmaGuru combines clean archi
 
 ---
 
-# 📸 Application Screenshots
+# 📸 Screenshots
 
 ## 🔐 Login Screen
 ![Login Screen](screenshots/login.png)
